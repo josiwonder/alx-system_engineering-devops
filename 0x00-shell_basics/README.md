@@ -1,1 +1,2 @@
-task 0: a script to print a directory current/ working path => pwd
+Task 0 script for printing working directory => pwd
+Task 1 script for listing content of the current working directory => ls
