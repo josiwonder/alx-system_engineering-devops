@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 554 hello
+find . -type f -perm 753 -name '*.dat' -maxdepth 1 -exec chmod 644 {} ';'
