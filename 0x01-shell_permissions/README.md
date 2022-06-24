@@ -6,3 +6,4 @@
 8 script ------rwx
 9 a script that sets the mode of the file
 11 a script that adds execute permission to all subdirectories of the current directory
+12 a script that creates a directory in working directory
