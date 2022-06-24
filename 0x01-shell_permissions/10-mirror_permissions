@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -perm 753 -name '*.dat' -maxdepth 1 -exec chmod 644 {} ';'
+find . -type f -perm 753 -name '*.dat' -maxdepth 1 -exec chmod 644 {}
