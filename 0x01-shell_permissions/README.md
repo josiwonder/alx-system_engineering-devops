@@ -10,3 +10,4 @@
 13 a script that changes the group owner
 a script that changes the owner to vincent and the group owner to staff
 a script that changes the owner and the group owner 
+a script that will play the StarWars IV episode in the terminal 
