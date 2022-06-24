@@ -4,3 +4,4 @@
 6 a script to give multiple permissions 
 7 a script that gives execution permission to all users
 8 script ------rwx
+9 a script that sets the mode of the file
