@@ -1,0 +1,4 @@
+10 a script that sets the mode of the file same as anothers = script  >> README.md
+chmod u+x 10-mirror_permissions
+git add .
+git commit -m a script that sets the mode of the file same as anothers => mirrow script

@@ -5,3 +5,4 @@
 7 a script that gives execution permission to all users
 8 script ------rwx
 9 a script that sets the mode of the file
+11 a script that adds execute permission to all subdirectories of the current directory
