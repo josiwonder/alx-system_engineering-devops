@@ -4,3 +4,4 @@ displaying configuration folder
 a script to display two files 
 script to display last ten lines of a file
 script to display first ten lines of a file
+a script to display thirdline of a file
