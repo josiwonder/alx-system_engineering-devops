@@ -11,3 +11,4 @@ escape command
 java script
 counting directories
 display the 10newest directories
+a script that takes a list of words as input and prints only words that appear exactly once
