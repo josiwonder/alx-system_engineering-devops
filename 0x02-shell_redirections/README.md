@@ -9,3 +9,4 @@ escape command
  Save current state of directory
  iacta
 java script
+counting directories
