@@ -8,3 +8,4 @@ a script to display thirdline of a file
 escape command
  Save current state of directory
  iacta
+java script
