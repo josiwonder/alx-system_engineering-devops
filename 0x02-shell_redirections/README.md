@@ -10,3 +10,4 @@ escape command
  iacta
 java script
 counting directories
+display the 10newest directories
